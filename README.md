@@ -20,9 +20,11 @@ To run the code in this repository, you will need the following:
   - Matplotlib
   - Seaborn
   - Scikit-learn
+  - Six
   - TensorFlow (if the project uses TensorFlow)
   - Keras (if the project uses Keras)
   - PyTorch (if the project uses PyTorch)
+
 ## **Getting Started**
 To get started, simply clone the repository to your local machine:
 

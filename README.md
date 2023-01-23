@@ -26,9 +26,8 @@ To run the code in this repository, you will need the following:
 ## **Getting Started**
 To get started, simply clone the repository to your local machine:
 
-HTTPS: <https://github.com/gautamrajesh007/ML-Projects.git>
-
-SSH: <git@github.com>:gautamrajesh007/ML-Projects.gi
+- HTTPS: <https://github.com/gautamrajesh007/ML-Projects.git>
+- SSH: <git@github.com>:gautamrajesh007/ML-Projects.gi
 
 Then, navigate to the directory of the project you want to run, and open the notebook or .py file.
 

@@ -5,7 +5,7 @@
 This repository contains all of my machine learning projects. Each project is contained in its own directory, and includes the following:
 
 - A `README.md` file that provides an overview of the project, including the problem being solved, the approach taken, and the results obtained.
-- A `**notebook**` or a **.py** file that contains the code used to train and evaluate the model.
+- A `notebook` or a **.py** file that contains the code used to train and evaluate the model.
 - Any additional data or resources required to run the code.
 
 ## **Prerequisites**

@@ -36,4 +36,4 @@ Then, navigate to the directory of the project you want to run, and open the not
 If you have any suggestions or improvements, feel free to open a pull request or create an issue.
 
 ## **License**
-This repository is licensed under the MIT License. See the `LICENCE`** file for more information.
+This repository is licensed under the MIT License. See the `LICENCE` file for more information.
